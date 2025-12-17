@@ -49,3 +49,4 @@ The AtmosScan PCB manages three distinct signal types:
 3.  **Calibration:** Allow a 48-hour burn-in period for the gas sensors to achieve stable baseline readings.
 
 ---
+![WhatsApp Image 2025-12-01 at 11 26 04](https://github.com/user-attachments/assets/e8cd18ee-29fe-4452-9ede-1dba5096f202)
